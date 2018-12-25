@@ -1,0 +1,1206 @@
+{
+    "input_dir": "parts_vehicles/",
+    "results": [
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/55386_0.png",
+            "low_contrast": false,
+            "score": 8.084627230033052
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/22595_0.png",
+            "low_contrast": false,
+            "score": 9.389841019798135
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/27055_0.png",
+            "low_contrast": false,
+            "score": 4.938292087543612
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/92676_0.png",
+            "low_contrast": false,
+            "score": 13.772562088920104
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/70364_0.png",
+            "low_contrast": false,
+            "score": 0.8352480506302135
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/46452_0.png",
+            "low_contrast": false,
+            "score": 3.490770300643863
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/63159_5.png",
+            "low_contrast": false,
+            "score": 1.5654003882576784
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/70622_1.png",
+            "low_contrast": false,
+            "score": 4.090542933555217
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/99649_0.png",
+            "low_contrast": false,
+            "score": 65.8356080407943
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/61277_0.png",
+            "low_contrast": false,
+            "score": 19.228096355710182
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/19159_0.png",
+            "low_contrast": false,
+            "score": 9.383837853632038
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/29367_3.png",
+            "low_contrast": false,
+            "score": 6.431171915802107
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/12264_1.png",
+            "low_contrast": false,
+            "score": 3.848900478547943
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/12264_2.png",
+            "low_contrast": false,
+            "score": 3.140509553189852
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/87898_2.png",
+            "low_contrast": false,
+            "score": 3.218178541373986
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/91720_0.png",
+            "low_contrast": false,
+            "score": 1.694846107110142
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/44746_0.png",
+            "low_contrast": false,
+            "score": 9.934519680782877
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/5848_3.png",
+            "low_contrast": false,
+            "score": 6.765759975982395
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/39598_0.png",
+            "low_contrast": false,
+            "score": 0.8651972393210464
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/30934_4.png",
+            "low_contrast": false,
+            "score": 19.39938826281556
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/17937_2.png",
+            "low_contrast": false,
+            "score": 0.9328840589010089
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/26547_1.png",
+            "low_contrast": false,
+            "score": 1.9061685410448206
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/89925_0.png",
+            "low_contrast": false,
+            "score": 4.715527349224757
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/80217_0.png",
+            "low_contrast": false,
+            "score": 2.346144169013992
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/83596_0.png",
+            "low_contrast": false,
+            "score": 8.190674353203002
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/45646_0.png",
+            "low_contrast": false,
+            "score": 2.801917322517442
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/21659_2.png",
+            "low_contrast": false,
+            "score": 2.589999157058695
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/35880_2.png",
+            "low_contrast": false,
+            "score": 3.490770300643863
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/19852_0.png",
+            "low_contrast": false,
+            "score": 5.075318628802743
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/43415_1.png",
+            "low_contrast": false,
+            "score": 3.9594569521495613
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/86770_0.png",
+            "low_contrast": false,
+            "score": 2.1024043270517674
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/68428_3.png",
+            "low_contrast": false,
+            "score": 0.3897281472329671
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/59539_2.png",
+            "low_contrast": false,
+            "score": 2.7244294745610693
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/41990_4.png",
+            "low_contrast": false,
+            "score": 3.1809848136387
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/35113_1.png",
+            "low_contrast": false,
+            "score": 35.62939236956713
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/33239_0.png",
+            "low_contrast": false,
+            "score": 21.967048556411854
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/24306_0.png",
+            "low_contrast": false,
+            "score": 4.647798837328088
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/23211_0.png",
+            "low_contrast": false,
+            "score": 16.527132136607758
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/31152_0.png",
+            "low_contrast": false,
+            "score": 4.0300495949445185
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/92772_2.png",
+            "low_contrast": false,
+            "score": 2.1472995832609736
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/1870_1.png",
+            "low_contrast": false,
+            "score": 3.4037675270679766
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/22566_0.png",
+            "low_contrast": false,
+            "score": 0.8624508394093977
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/35376_0.png",
+            "low_contrast": false,
+            "score": 0.7591855456777296
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/11977_0.png",
+            "low_contrast": false,
+            "score": 3.490770300643863
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/15255_1.png",
+            "low_contrast": false,
+            "score": 2.347186868244114
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/8758_0.png",
+            "low_contrast": false,
+            "score": 2.225345462171991
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/73415_3.png",
+            "low_contrast": false,
+            "score": 4.8681381666967924
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/1288_0.png",
+            "low_contrast": false,
+            "score": 21.04026059218963
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/40980_1.png",
+            "low_contrast": false,
+            "score": 2.182282903363144
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/90197_0.png",
+            "low_contrast": false,
+            "score": 1.8670892665978003
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/20772_0.png",
+            "low_contrast": false,
+            "score": 2.6189991519986036
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/50226_1.png",
+            "low_contrast": false,
+            "score": 11.101412634203863
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/26882_4.png",
+            "low_contrast": false,
+            "score": 8.37837251339221
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/83609_0.png",
+            "low_contrast": false,
+            "score": 7.589636294140262
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/34570_0.png",
+            "low_contrast": false,
+            "score": 2.406689893003571
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/5099_0.png",
+            "low_contrast": false,
+            "score": 2.995038995007373
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/75736_0.png",
+            "low_contrast": false,
+            "score": 8.220908079154409
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/41085_2.png",
+            "low_contrast": false,
+            "score": 1.8477611545709491
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/19758_0.png",
+            "low_contrast": false,
+            "score": 2.8356995198509707
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/27505_0.png",
+            "low_contrast": false,
+            "score": 0.5849283166728272
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/86263_7.png",
+            "low_contrast": false,
+            "score": 2.130633345290853
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/96201_0.png",
+            "low_contrast": false,
+            "score": 1.2386848833908761
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/31716_0.png",
+            "low_contrast": false,
+            "score": 3.564595861369005
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/57876_0.png",
+            "low_contrast": false,
+            "score": 12.134710534355875
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/60007_1.png",
+            "low_contrast": false,
+            "score": 2.785356982291271
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/7019_5.png",
+            "low_contrast": false,
+            "score": 0.614793645073574
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/95893_0.png",
+            "low_contrast": false,
+            "score": 2.111856066769574
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/49184_1.png",
+            "low_contrast": false,
+            "score": 3.490770300643863
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/20093_3.png",
+            "low_contrast": false,
+            "score": 9.936733218561937
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/41986_2.png",
+            "low_contrast": false,
+            "score": 4.279307514579131
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/17268_0.png",
+            "low_contrast": false,
+            "score": 1.5659285923366457
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/19655_3.png",
+            "low_contrast": false,
+            "score": 4.997613985012811
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/44272_0.png",
+            "low_contrast": false,
+            "score": 4.576424416968674
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/41986_0.png",
+            "low_contrast": false,
+            "score": 10.188414704137164
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/2505_0.png",
+            "low_contrast": false,
+            "score": 7.888131783989006
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/12770_0.png",
+            "low_contrast": false,
+            "score": 1.081434744186151
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/92444_0.png",
+            "low_contrast": false,
+            "score": 1.6725812750026194
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/79003_0.png",
+            "low_contrast": false,
+            "score": 1.1556272124124811
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/39871_0.png",
+            "low_contrast": false,
+            "score": 3.3929707783034595
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/815_0.png",
+            "low_contrast": false,
+            "score": 1.412564237544795
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/55904_0.png",
+            "low_contrast": false,
+            "score": 4.5509550056241554
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/60858_0.png",
+            "low_contrast": false,
+            "score": 0.5556616096068663
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/25894_0.png",
+            "low_contrast": false,
+            "score": 0.773850794554877
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/77358_0.png",
+            "low_contrast": false,
+            "score": 1.9337569422586116
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/49546_0.png",
+            "low_contrast": false,
+            "score": 2.378167009295343
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/50512_1.png",
+            "low_contrast": false,
+            "score": 5.652486934518817
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/1264_7.png",
+            "low_contrast": false,
+            "score": 14.236333708093989
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/6887_0.png",
+            "low_contrast": false,
+            "score": 2.757235641891812
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/19651_0.png",
+            "low_contrast": false,
+            "score": 6.287502249680507
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/99771_0.png",
+            "low_contrast": false,
+            "score": 1.7885699307119955
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/13354_0.png",
+            "low_contrast": false,
+            "score": 24.708932319650707
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/26979_0.png",
+            "low_contrast": false,
+            "score": 22.776965873356822
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/40590_0.png",
+            "low_contrast": false,
+            "score": 2.187763006317306
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/84622_1.png",
+            "low_contrast": false,
+            "score": 5.925980502274677
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/17098_0.png",
+            "low_contrast": false,
+            "score": 11.386171396458959
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/43143_0.png",
+            "low_contrast": false,
+            "score": 16.892412776563525
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/21249_0.png",
+            "low_contrast": false,
+            "score": 1.700475976395023
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/6428_2.png",
+            "low_contrast": false,
+            "score": 1.3573648293219531
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/83054_4.png",
+            "low_contrast": false,
+            "score": 0.941714899999962
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/37731_0.png",
+            "low_contrast": false,
+            "score": 1.2929287499994366
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/91630_1.png",
+            "low_contrast": false,
+            "score": 18.075874835201663
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/61277_2.png",
+            "low_contrast": false,
+            "score": 11.655688027972861
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/22221_1.png",
+            "low_contrast": false,
+            "score": 5.803514434840186
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/94301_1.png",
+            "low_contrast": false,
+            "score": 0.8024944685640664
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/551_2.png",
+            "low_contrast": false,
+            "score": 1.9345854867770185
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/78056_0.png",
+            "low_contrast": false,
+            "score": 2.7295611104231914
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/78102_4.png",
+            "low_contrast": false,
+            "score": 1.8512100802418456
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/99478_2.png",
+            "low_contrast": false,
+            "score": 6.566815538058114
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/96500_0.png",
+            "low_contrast": false,
+            "score": 4.9376663134875285
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/86263_6.png",
+            "low_contrast": false,
+            "score": 3.117532733891205
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/14919_2.png",
+            "low_contrast": false,
+            "score": 35.375458479447886
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/55383_3.png",
+            "low_contrast": false,
+            "score": 8.184910761131098
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/6133_2.png",
+            "low_contrast": false,
+            "score": 80.6282840685535
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/908_0.png",
+            "low_contrast": false,
+            "score": 3.9190941132352854
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/26851_0.png",
+            "low_contrast": false,
+            "score": 4.211101767005928
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/38358_3.png",
+            "low_contrast": false,
+            "score": 1.8820762071921857
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/74602_1.png",
+            "low_contrast": false,
+            "score": 1.5014948524322658
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/13364_0.png",
+            "low_contrast": false,
+            "score": 3.6736636669735776
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/29017_2.png",
+            "low_contrast": false,
+            "score": 7.10588764984294
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/53594_0.png",
+            "low_contrast": false,
+            "score": 20.38899606154373
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/16090_0.png",
+            "low_contrast": false,
+            "score": 2.2326996558325165
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/61758_0.png",
+            "low_contrast": false,
+            "score": 6.471088963081726
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/25496_0.png",
+            "low_contrast": false,
+            "score": 1.4737092139684393
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/46105_3.png",
+            "low_contrast": false,
+            "score": 1.6415098246078128
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/88996_0.png",
+            "low_contrast": false,
+            "score": 8.38921700809962
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/24806_1.png",
+            "low_contrast": false,
+            "score": 10.018305422870867
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/15384_0.png",
+            "low_contrast": false,
+            "score": 2.7869739400386724
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/39087_0.png",
+            "low_contrast": false,
+            "score": 4.129610236071976
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/50512_2.png",
+            "low_contrast": false,
+            "score": 12.004397681478457
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/97581_0.png",
+            "low_contrast": false,
+            "score": 4.289194562468448
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/80366_0.png",
+            "low_contrast": false,
+            "score": 5.875770340318782
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/4185_0.png",
+            "low_contrast": false,
+            "score": 0.5725076618998288
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/17776_0.png",
+            "low_contrast": false,
+            "score": 1.1954099107385479
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/27849_0.png",
+            "low_contrast": false,
+            "score": 1.3843977687542264
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/6630_0.png",
+            "low_contrast": false,
+            "score": 4.3345823886619295
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/89886_1.png",
+            "low_contrast": false,
+            "score": 35.36031314158392
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/55849_0.png",
+            "low_contrast": false,
+            "score": 9.710882263947035
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/97660_2.png",
+            "low_contrast": false,
+            "score": 2.105403876190618
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/90137_0.png",
+            "low_contrast": false,
+            "score": 2.105621374998109
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/12277_0.png",
+            "low_contrast": false,
+            "score": 8.998189660014894
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/5116_1.png",
+            "low_contrast": false,
+            "score": 9.07055380468555
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/14653_1.png",
+            "low_contrast": false,
+            "score": 6.937028683830116
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/89232_0.png",
+            "low_contrast": false,
+            "score": 2.4392385235813574
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/52500_0.png",
+            "low_contrast": false,
+            "score": 6.601016307318973
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/81929_1.png",
+            "low_contrast": false,
+            "score": 50.208104342972334
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/39889_0.png",
+            "low_contrast": false,
+            "score": 0.9038204935792825
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/99316_1.png",
+            "low_contrast": false,
+            "score": 13.710751194155632
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/54503_0.png",
+            "low_contrast": false,
+            "score": 0.6489537266546319
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/5836_0.png",
+            "low_contrast": false,
+            "score": 2.5747561063079902
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/28705_0.png",
+            "low_contrast": false,
+            "score": 2.0905646917654117
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/82079_4.png",
+            "low_contrast": false,
+            "score": 0.941714899999962
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/91620_3.png",
+            "low_contrast": false,
+            "score": 43.19277936503074
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/42996_0.png",
+            "low_contrast": false,
+            "score": 5.336305207785468
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/10737_3.png",
+            "low_contrast": false,
+            "score": 3.0525609297397986
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/57776_6.png",
+            "low_contrast": false,
+            "score": 7.735313084193912
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/80022_0.png",
+            "low_contrast": false,
+            "score": 14.602031856888406
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/32492_0.png",
+            "low_contrast": false,
+            "score": 4.727751962450662
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/19901_2.png",
+            "low_contrast": false,
+            "score": 8.543052927927613
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/10998_0.png",
+            "low_contrast": false,
+            "score": 1.1022529494468707
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/93769_3.png",
+            "low_contrast": false,
+            "score": 0.9413743999999598
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/90113_3.png",
+            "low_contrast": false,
+            "score": 2.39492124999975
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/22628_0.png",
+            "low_contrast": false,
+            "score": 0.8066101180414261
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/21539_0.png",
+            "low_contrast": false,
+            "score": 2.2326996558325165
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/5824_2.png",
+            "low_contrast": false,
+            "score": 6.765759975982395
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/23965_0.png",
+            "low_contrast": false,
+            "score": 0.7033572505477682
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/84364_1.png",
+            "low_contrast": false,
+            "score": 2.9088571427692753
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/93092_1.png",
+            "low_contrast": false,
+            "score": 66.42280081641985
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/94671_0.png",
+            "low_contrast": false,
+            "score": 3.8287361485473794
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/22065_1.png",
+            "low_contrast": false,
+            "score": 8.454948442069004
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/81640_2.png",
+            "low_contrast": false,
+            "score": 3.545665135057529
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/17629_2.png",
+            "low_contrast": false,
+            "score": 4.956249436803696
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/79250_1.png",
+            "low_contrast": false,
+            "score": 4.8681381666967924
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/12235_0.png",
+            "low_contrast": false,
+            "score": 2.6354827198651307
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/87498_0.png",
+            "low_contrast": false,
+            "score": 1.4851276947802934
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/36263_3.png",
+            "low_contrast": false,
+            "score": 17.656349080419496
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/47504_7.png",
+            "low_contrast": false,
+            "score": 1.9039142126769801
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/9471_1.png",
+            "low_contrast": false,
+            "score": 1.5360359651580417
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/21580_2.png",
+            "low_contrast": false,
+            "score": 2.8265449077446503
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/60980_0.png",
+            "low_contrast": false,
+            "score": 11.853591739243042
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/80997_1.png",
+            "low_contrast": false,
+            "score": 60.38819459505135
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/36263_4.png",
+            "low_contrast": false,
+            "score": 14.344649043057473
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/31727_2.png",
+            "low_contrast": false,
+            "score": 2.6756636652464265
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/1272_3.png",
+            "low_contrast": false,
+            "score": 2.0315686164220694
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/34709_3.png",
+            "low_contrast": false,
+            "score": 18.504058866991457
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/54575_0.png",
+            "low_contrast": false,
+            "score": 0.5853448181230844
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/84768_0.png",
+            "low_contrast": false,
+            "score": 24.457470191223816
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/5346_0.png",
+            "low_contrast": false,
+            "score": 2.0692178217813684
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/48698_0.png",
+            "low_contrast": false,
+            "score": 4.662548368734525
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/37088_0.png",
+            "low_contrast": false,
+            "score": 82.56167547803965
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/28040_0.png",
+            "low_contrast": false,
+            "score": 5.942948443010667
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/45262_1.png",
+            "low_contrast": false,
+            "score": 3.8313792650901406
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/924_2.png",
+            "low_contrast": false,
+            "score": 3.0094253842619745
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/2918_0.png",
+            "low_contrast": false,
+            "score": 4.4623965129355705
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/29017_1.png",
+            "low_contrast": false,
+            "score": 10.188414704137164
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/45884_0.png",
+            "low_contrast": false,
+            "score": 7.318887350311476
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/44287_0.png",
+            "low_contrast": false,
+            "score": 4.523697291750094
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/32947_0.png",
+            "low_contrast": false,
+            "score": 0.8624508394093977
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/19653_1.png",
+            "low_contrast": false,
+            "score": 4.165102360935898
+        },
+        {
+            "blurry": true,
+            "input_path": "parts_vehicles/45502_1.png",
+            "low_contrast": false,
+            "score": 2.6376966844453307
+        },
+        {
+            "blurry": false,
+            "input_path": "parts_vehicles/790_1.png",
+            "low_contrast": false,
+            "score": 5.418243326777108
+        }
+    ],
+    "threshold": 5.0
+}
