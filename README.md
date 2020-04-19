@@ -1,4 +1,4 @@
-# apollo-ml-detect-blurry
+# Detect Image Quality
 
 The goal is to detect if an image (or group of images) is blurry or has low contrast and store the result in a json file
 
