@@ -3,12 +3,19 @@
 The goal is to detect if an image (or group of images) is blurry or has low contrast and store the result in a json file
 
 ```bash
-# Example usage: 
+# Example usage (natively): 
 $ pip install -r requirements.txt
 $ python batch.py -i parts_vehicles/ -s results.json -f
 $ python batch.py -i few_images/ -s results_small.json -f
 ```
 
+```bash
+# Example usage (in docker): 
+$ sudo service docker restart
+$ jupyter-repo2docker https://github.com/AndreasMerentitis/detect-contrast-blurriness
+```
+
+After this step copy the link that will be produced to your web browser and run the example from there
 
 # Extending and reusing the basic idea from these sources:
 * https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
