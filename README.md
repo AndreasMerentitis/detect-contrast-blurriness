@@ -16,7 +16,7 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/detect-contrast-blurr
 ```
 
 ```bash
-# To verify the installation (natively, verified in python 3.6): 
+# To test the installation (natively, verified in python 3.6): 
 $ pytest -v
 ```
 
