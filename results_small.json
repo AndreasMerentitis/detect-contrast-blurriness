@@ -3,45 +3,49 @@
     "results": [
         {
             "blurry": true,
-            "clearness_score": 1.249282523178281,
+            "clearness_score": 1.249185304858528,
             "contrast_score": 0.1591137254901961,
             "input_path": "few_images/96201_0.png",
             "low_contrast": true
         },
         {
             "blurry": true,
-            "clearness_score": 0.5864822106149936,
+            "clearness_score": 0.5864861595624388,
             "contrast_score": 0.22583392156862747,
             "input_path": "few_images/54575_0.png",
             "low_contrast": false
         },
         {
             "blurry": true,
-            "clearness_score": 2.089412541253312,
+            "clearness_score": 2.0893678367828636,
             "contrast_score": 0.41052254901960783,
             "input_path": "few_images/5346_0.png",
             "low_contrast": false
         },
         {
             "blurry": false,
-            "clearness_score": 82.57983014623107,
+            "clearness_score": 82.5798824521931,
             "contrast_score": 0.4271205882352942,
             "input_path": "few_images/37088_0.png",
             "low_contrast": false
         },
         {
             "blurry": false,
-            "clearness_score": 10.196974843081705,
+            "clearness_score": 10.196973158899068,
             "contrast_score": 0.35345693921568677,
             "input_path": "few_images/29017_1.png",
             "low_contrast": false
         },
         {
             "blurry": true,
-            "clearness_score": 0.8788307786605958,
+            "clearness_score": 0.8789627063002503,
             "contrast_score": 0.27411588235294115,
             "input_path": "few_images/32947_0.png",
             "low_contrast": false
+        },
+        {
+            "blurry_ratio": 0.6666666666666666,
+            "low_contrast_ratio": 0.16666666666666666
         }
     ],
     "threshold": 5.0

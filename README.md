@@ -68,10 +68,14 @@ After this step copy the link that will be produced to your web browser and run 
         },
         {
             "blurry": true,
-            "clearness_score": 0.8788307786605958,
+            "clearness_score": 0.8789627063002503,
             "contrast_score": 0.27411588235294115,
             "input_path": "few_images/32947_0.png",
             "low_contrast": false
+        },
+        {
+            "blurry_ratio": 0.6666666666666666,
+            "low_contrast_ratio": 0.16666666666666666
         }
     ],
     "threshold": 5.0
@@ -92,5 +96,9 @@ It is clear that we have three blurry and two sharp images, as indicated also in
 ![relative path 4](/few_images/29017_1.png?raw=true "few_images/29017_1.png")
 
 ![relative path 5](/few_images/32947_0.png?raw=true "few_images/32947_0.png")
+
+![relative path 6](/bluriness_pie.png?raw=true "bluriness_pie.png")
+
+![relative path 7](/contrast_pie.png?raw=true "contrast_pie.png")
 
 

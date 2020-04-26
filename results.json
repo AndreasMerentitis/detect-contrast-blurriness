@@ -1400,6 +1400,10 @@
             "contrast_score": 0.2763594117647059,
             "input_path": "parts_vehicles/790_1.png",
             "low_contrast": false
+        },
+        {
+            "blurry_ratio": 0.63,
+            "low_contrast_ratio": 0.01
         }
     ],
     "threshold": 5.0

@@ -1,22 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
+import argparse
 import glob
 import json
-import argparse
 import logging
+import os
 
 import cv2
+import matplotlib.pyplot as plt
 import numpy as np
 
-#from skimage.exposure import is_low_contrast
-
-from blur_detection.detection import estimate_blur
-from blur_detection.detection import fix_image_size
-from blur_detection.detection import check_contrast
-
-import pdb
+from blur_detection.detection import (check_contrast, estimate_blur,
+                                      fix_image_size)
 
 
 def find_images(input_dir):
@@ -48,18 +44,27 @@ if __name__ == '__main__':
 
     results = []
 
+    count_total_images = 0
+    count_blurry_images = 0
+    count_low_contrast_images = 0	
     for input_path in find_images(args.input_dir):
         try:
             logging.info("processing {0}".format(input_path))
             input_image = cv2.imread(input_path)
 
+            count_total_images = count_total_images + 1
+
             if args.fix_size:
                 input_image = fix_image_size(input_image)
 
             blur_map, score, is_blurry = estimate_blur(input_image, threshold=args.threshold)
+            if is_blurry:
+               count_blurry_images = count_blurry_images + 1
 
             contrast_ratio, is_low_contrast = check_contrast(input_image)
             is_low_contrast = bool(is_low_contrast)
+            if is_low_contrast:
+               count_low_contrast_images = count_low_contrast_images + 1
 
             logging.info("input_path: {0}, clearness_score: {1}, blurry: {2}, contrast_score: {3}, low_contrast: {4}".format(input_path, score, is_blurry, contrast_ratio, is_low_contrast))
             results.append({"input_path": input_path, "clearness_score": score, "blurry": is_blurry, "contrast_score": contrast_ratio, "low_contrast": is_low_contrast})
@@ -73,6 +78,29 @@ if __name__ == '__main__':
             pass
 
     logging.info("writing results to {0}".format(args.save_path))
+    blurry_ratio = count_blurry_images / count_total_images
+    low_contrast_ratio = count_low_contrast_images / count_total_images
+
+    print ('blurry_ratio:', blurry_ratio)
+    print ('low_contrast_ratio:', low_contrast_ratio)
+    results.append({"blurry_ratio": blurry_ratio, "low_contrast_ratio": low_contrast_ratio})
+
+
+    labels = 'Blurry', 'Non blurry'
+    sizes = [count_blurry_images, count_total_images-count_blurry_images]
+    colors = ['yellowgreen', 'gold']
+    plt.pie(sizes, labels=labels, colors=colors,
+    autopct='%1.1f%%', shadow=True, startangle=140)
+    plt.axis('equal')
+    plt.savefig('bluriness_pie.png')
+
+    labels = 'Low contrast', 'OK contrast'
+    sizes = [count_low_contrast_images, count_total_images-count_low_contrast_images]
+    colors = ['lightcoral', 'lightskyblue']
+    plt.pie(sizes, labels=labels, colors=colors,
+    autopct='%1.1f%%', shadow=True, startangle=140)
+    plt.axis('equal')
+    plt.savefig('contrast_pie.png')
 
     assert os.path.splitext(args.save_path)[1] == ".json"
 
