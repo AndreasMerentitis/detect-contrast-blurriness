@@ -93,6 +93,7 @@ if __name__ == '__main__':
     autopct='%1.1f%%', shadow=True, startangle=140)
     plt.axis('equal')
     plt.savefig('bluriness_pie.png')
+    plt.clf()
 
     labels = 'Low contrast', 'OK contrast'
     sizes = [count_low_contrast_images, count_total_images-count_low_contrast_images]
