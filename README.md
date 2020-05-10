@@ -20,7 +20,7 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/detect-contrast-blurr
 $ pytest -v
 ```
 
-After this step copy the link that will be produced to your web browser and run the example from there
+After this step, copy the link that will be produced to your web browser and run the example from there
 
 # Extending and reusing the basic idea from these sources:
 * https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
