@@ -6,10 +6,12 @@ import glob
 import json
 import logging
 import os
+from math import isclose
 
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
+
 
 from blur_detection.detection import (check_contrast, estimate_blur,
                                       fix_image_size)
@@ -31,8 +33,8 @@ def test_answer():
     input_image = fix_image_size(input_image)
     blur_map, score, is_blurry = estimate_blur(input_image, threshold=5.0)
     contrast_ratio, is_low_contrast = check_contrast(input_image)
-    assert score == 0.8788307786605958
-    assert contrast_ratio == 0.27411588235294115
+    assert isclose(score, 0.8788307786605958, abs_tol=10**-3)
+    assert isclose(contrast_ratio, 0.27411588235294115, abs_tol=10**-3)
 
 
 
